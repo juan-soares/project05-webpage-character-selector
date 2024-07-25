@@ -1,0 +1,38 @@
+@media (max-width: 1120px) {
+  .logo {
+    max-width: 190px;
+  }
+
+  main {
+    flex-direction: column-reverse;
+    max-width: 430px;
+    margin: 0 auto;
+  }
+
+  .characters {
+    margin-top: 37px;
+  }
+
+  .characters__title {
+    font-size: 15px;
+  }
+
+  .characters__list {
+    gap: 9px;
+  }
+
+  .character__image {
+    width: 80px;
+  }
+
+  .character__image--bigger {
+    width: 350px;
+    height: 350px;
+  }
+
+  .selected-character__description {
+    width: 80%;
+    font-size: 16px;
+    margin: 20px auto;
+  }
+}
