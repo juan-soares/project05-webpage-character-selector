@@ -15,7 +15,7 @@
 
 ## Description
 
-Projeto para prática de desenvolvimento web Front-end, utilizando HTML, CSS e JavaScript. Consiste em uma página única que contém uma lista de personagens, e uma seção onde são exibidas as informações do personagem selecionado, de maneira dinâmica ao passar o cursor.
+Projeto para prática de desenvolvimento web Front-end, utilizando HTML, CSS e JavaScript. Consiste em uma página única contendo uma lista de personagens, e uma seção onde são exibidas as informações do personagem selecionado, de maneira dinâmica ao passar o cursor. São trabalhados conceitos de responsividade, técnicas de redimensionamento e opacidade, e manipulação do DOM com funções JavaScript contendo parâmetros.
 
 ## Demo
 
