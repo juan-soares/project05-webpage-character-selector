@@ -39,6 +39,7 @@ main {
 
 .character {
   border-bottom: 4px solid #47f4ff;
+  cursor: pointer;
 }
 
 .character--active {
