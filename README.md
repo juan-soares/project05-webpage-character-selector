@@ -29,6 +29,7 @@ Projeto para prática de desenvolvimento web Front-end, utilizando HTML, CSS e J
 
 - Metodologia BEM,
 - Favicon;
+- Imagem de fundo com opacidade através de pseudo-elemento;
 - Conteúdo dinâmico ao passar do mouse;
 - Destaque ao personagem selecionado;
 - Responsivo.

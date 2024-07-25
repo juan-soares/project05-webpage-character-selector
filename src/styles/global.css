@@ -4,6 +4,7 @@ body {
   color: #ffffff;
 }
 
+/* Pseudo-element to apply opacity to the image without affecting the content. */
 body::before {
   content: "";
   background-image: url(../../public/assets/images/wallpaper-background.jpg);
